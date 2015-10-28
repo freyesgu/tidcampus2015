@@ -1,2 +1,1 @@
-fichero iterativo
-created
+exit 0
